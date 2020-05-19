@@ -1,4 +1,4 @@
-# Demo2-shop
+# ZooMarket
 
 > This app uses Node, Express, Sequalize (Postgres).
 
